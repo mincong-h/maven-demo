@@ -11,7 +11,6 @@
   <modules>
     <module>shop-api</module>
     <module>shop-core</module>
-    <module>shop-legacy</module>
   </modules>
 
   <properties>
